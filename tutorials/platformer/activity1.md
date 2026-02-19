@@ -1,5 +1,5 @@
 ### @hideIteration true
-### @hideIteration true
+### @hideToolbox true
 
 # Simple Platformer
 
